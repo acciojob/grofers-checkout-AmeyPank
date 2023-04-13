@@ -1,5 +1,5 @@
 # grofers-checkout-AmeyPank
-<b>You are given a Grocery list in an HTML table. You want to find the total price by calculating the sum of prices of individual items listed in the table.</b>
+<b>You are given a Grocery list in an HTML table. You want to find the total price by calculating the sum of prices of individual items listed in the table.</b><br>
 Write the sum logic in such a way that it works for given prices and also if the values are changed in the table. Show the total price by adding a new row to the table with a single cell that has the total price.
 
 Implementation Hint:
